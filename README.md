@@ -1,12 +1,21 @@
 TintedKeyboard
 ==============
 
-Hack to "tint" the iOS 7 Keyboard.
+<b>Hack to "tint" the iOS 7 Keyboard.</b>
 
-TKTintedKeyboardViewController is a UIViewController subclass that if your View Controller extends will tint any
-keyboard that appears on-screen to your root window tintColor.
+<i>TKTintedKeyboardViewController</i> is a <i>UIViewController</i> subclass that when extended will tint any
+keyboard that appears on-screen to your root window <i>tintColor</i>. 
 
-To-Do: Make it work in Landscape and when auto-rotating.
+This is usuaully set in your App Delegate, e.g. <i>self.window.tintColor = [UIColor redColor];</i>
 
-Note: There is currently a bug in iOS 7's UITextField that sometimes shows several CoreGraphics errors when it
-becomesFirstResponder.
+<h3>To-Do:</h3> 
+<ul>
+<li>Landscape Mode</li>
+<li>Autorotate</li>
+</ul>
+
+<h3>Notes:</h3> 
+<ul>
+<li>There is currently a bug in iOS 7's UITextField that sometimes shows several CoreGraphics errors when it
+becomesFirstResponder.</li>
+</ul>
