@@ -8,6 +8,8 @@ keyboard that appears on-screen to your root window <i>tintColor</i>.
 
 This is usuaully set in your App Delegate, e.g. <i>self.window.tintColor = [UIColor redColor];</i>
 
+![Alt text](/TintedKeyboard/screenshot.png "Tinted Keyboard")
+
 <h3>To-Do:</h3> 
 <ul>
 <li>Landscape Mode</li>
