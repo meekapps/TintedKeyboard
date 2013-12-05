@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BA6F4A2E-409D-4156-AE0B-83330372A25A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TintedKeyboard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C428C7B4-F032-41D7-B41B-288246739EC4</key>
+		<string>https://github.com/meekapps/TintedKeyboard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TintedKeyboard/TintedKeyboard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C428C7B4-F032-41D7-B41B-288246739EC4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/meekapps/TintedKeyboard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C428C7B4-F032-41D7-B41B-288246739EC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C428C7B4-F032-41D7-B41B-288246739EC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TintedKeyboard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
