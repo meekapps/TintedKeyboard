@@ -1,7 +1,7 @@
 TintedKeyboard
 ==============
 
-<b>Hack to "tint" the iOS 7 Keyboard.</b>
+<b>Hack to tint the iOS 7 keyboard.</b>
 
 <i>TKTintedKeyboardViewController</i> is a <i>UIViewController</i> subclass that when extended will tint any
 keyboard that appears on-screen to your root window <i>tintColor</i>. 
